@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
+global.owner = ['254113545599','6283134496493']
+global.premium = ['254113545599','6283134496493']
 global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.ownername = 'BLACK NOIR'
+global.group1 = 'https://t.me/BALLERS_OFC'
+global.group2 = 'https://chat.whatsapp.com/I5muvu7Vogm9U5cs9837re'
+global.packname = 'DAWN OF THE SEVEN'
+global.ytchannel = 'https://youtu.be/@DEXTEROUS_MODS_OFC'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
